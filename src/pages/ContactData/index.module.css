@@ -1,0 +1,23 @@
+.contactData {
+  margin: 50px auto;
+  max-width: 800px;
+  text-align: center;
+  box-shadow: 0 2px 3px #ccc;
+  border: 1px solid #eee;
+  padding: 8px;
+  box-sizing: border-box;
+  background-color: rgb(137, 160, 85);
+}
+
+.input {
+  display: block;
+  padding: 15px;
+  width: 700px;
+  margin-bottom: 7px;
+}
+
+/* @media (min-width: 600px) {
+  .contactData {
+    width: 500px;
+  }
+} */
